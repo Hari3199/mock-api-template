@@ -6,7 +6,15 @@
         "password": "Jog Falls, India",
         "age": "Jog Falls, India",
         "gender": "Jog Falls, India"
-        
       }
-       ]
+       ],
+       "students":[
+        {
+          "parentId":1,
+          "id":"",
+          "name":""
+          
+        }
+       ],
+       "login":[]
   }
