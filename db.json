@@ -5,16 +5,11 @@
         "phone": "Jog Falls, India",
         "password": "Jog Falls, India",
         "age": "Jog Falls, India",
-        "gender": "Jog Falls, India"
+        "gender": "Jog Falls, India",
+        "level":"1"
+        
       }
        ],
-       "students":[
-        {
-          "parentId":1,
-          "id":"",
-          "name":""
-          
-        }
-       ],
+       "students":[],
        "login":[]
   }
